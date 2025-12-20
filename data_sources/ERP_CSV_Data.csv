@@ -1,0 +1,121 @@
+cust_number,full_name,street,city,postal_code,lat_lng,tax_id
+1,Emily Johnson,626 Main Street,Phoenix,29112,-77.16213 : -92.084824,AI6849
+2,,385 Fifth Street,Houston,38807,22.815468 : 115.608581,WN7700
+3,Sophia Brown,1642 Ninth Street,Washington,32822,45.289366 : 46.832664,QR5610
+4,James Davis,238 Jefferson Street,Seattle,68354,16.782513 : -139.34723,NZ7265
+5,Emma Miller,607 Fourth Street,Jacksonville,26593,0.505589 : -157.43281,LH3554
+6,Olivia Wilson,547 First Street,Fort Worth,,75.32627 : -26.15285,LA4953
+7,,664 Maple Street,Indianapolis,86684,35.289664 : 7.063255,AV2432
+8,Ava Taylor,1197 First Street,Fort Worth,24771,-81.194833 : -87.948158,SQ9772
+9,Ethan Martinez,466 Pine Street,San Antonio,72360,74.074918 : -25.312703,IB7632
+10,Isabella Anderson,1964 Oak Street,New York,89352,41.331324 : 151.782727,AV4562
+11,Liam Garcia,576 Fifth Street,Denver,57252,-66.218177 : -145.340165,QF2881
+12,Mia Rodriguez,1627 Sixth Street,Jacksonville,41810,24.857497 : -34.865429,QF8944
+13,Noah Hernandez,1413 Maple Street,New York,73696,-25.0377 : -151.70469,NZ3482
+14,Charlotte Lopez,208 Second Street,Columbus,42044,-44.443762 : -151.420561,AA6083
+15,,31 Maple Street,,78243,8.152876 : 113.29799,SQ4430
+16,Avery Perez,1125 First Street,Columbus,30973,12.789127 : 85.792598,AC5159
+17,Evelyn Sanchez,1170 Lincoln Street,San Diego,43423,-83.31484 : 11.768071,AV8838
+18,Logan Torres,907 Seventh Street,Columbus,78805,-64.846516 : 174.775744,WN7692
+19,Abigail Rivera,996 Oak Street,Chicago,11407,44.321308 : -3.723903,AF8339
+20,Jackson Evans,1873 Main Street,New York,26600,34.722451 : 63.448927,AZ5428
+21,,1892 Lincoln Street,Philadelphia,62091,52.993694 : 160.486892,SK4116
+22,Elijah Stewart,1701 Eighth Street,Columbus,31585,-54.833799 : -174.504027,KE2894
+23,,401 Fourth Street,Dallas,54972,-30.190759 : -58.705979,AZ3832
+24,Mateo Nguyen,1578 Fourth Street,Columbus,20673,-32.828675 : -82.557354,IB9753
+25,Harper Kelly,1591 Adams Street,Philadelphia,69521,-26.832913 : -75.445017,ET1547
+26,Evelyn Gonzalez,1065 Lincoln Street,Dallas,84898,67.768359 : 71.268643,SQ8501
+27,Daniel Cook,1163 Pine Street,Los Angeles,58781,-3.456681 : -134.937482,AI3081
+28,Lily Lee,1946 Oak Street,Phoenix,41540,-9.87059 : -72.336845,SK9731
+29,Henry Hill,1837 Maple Street,Indianapolis,81783,35.498256 : 154.088476,AV2250
+30,Addison Wright,568 Tenth Street,San Francisco,54698,20.946052 : 100.228822,QR3362
+31,Gabriel Adams,1814 Cedar Street,Charlotte,21191,52.410844 : 23.60067,AV2744
+32,Natalie Harris,356 Pine Street,San Jose,31121,-20.105724 : 136.91646,AI3823
+33,Carter Baker,625 Third Street,Denver,74622,-63.00584 : 76.189171,SK6935
+34,Sofia Mitchell,21 Cedar Street,San Francisco,42411,-44.27707 : -40.123604,AI2581
+35,Jack Ward,164 Elm Street,Phoenix,42061,52.754451 : 32.383886,KE8796
+36,,1964 Fifth Street,Dallas,63361,-41.149882 : -167.072873,IB7731
+37,Mason Parker,419 Elm Street,,20540,-59.018685 : 82.296555,CX9990
+38,Aria Roberts,560 Fifth Street,Seattle,70664,36.157244 : -29.219594,AC9854
+39,Lucas Gray,590 Lincoln Street,Houston,12506,-50.975209 : 53.492629,NH2713
+40,Ella Adams,1420 First Street,Washington,85475,-20.421386 : -125.851148,LA9443
+41,Evan Reed,98 Tenth Street,San Antonio,19937,89.781211 : -50.810277,WN9069
+42,Avery Carter,1999 Seventh Street,,13916,-59.303292 : -87.318538,QF3102
+43,Benjamin Foster,25 Sixth Street,San Diego,48884,41.653453 : 175.676203,WN3052
+44,,1276 Cedar Street,Phoenix,,-58.699428 : 143.479322,UA4725
+45,Lincoln Kelly,108 Adams Street,Columbus,51083,59.268321 : -30.466022,SK6873
+46,Hannah Robinson,666 Fourth Street,Phoenix,82463,3.84181 : -33.501862,AI2581
+47,Nicholas Bailey,55 Madison Street,Chicago,,2.340163 : -34.156688,WN4714
+48,Luna Russell,968 Elm Street,San Diego,64610,,IB6654
+49,Jacob Cooper,1419 Pine Street,,61227,75.201414 : -106.866138,AV9464
+50,Stella Hughes,926 Elm Street,Jacksonville,,-29.825372 : 116.639085,SQ2561
+51,Eli Bennett,1423 Main Street,Jacksonville,34271,-15.022759 : 58.392572,CX9238
+52,Grace Perry,1957 Cedar Street,Seattle,61720,-63.108401 : -30.256437,KL4943
+53,Lucas Gordon,1386 Third Street,Los Angeles,37169,-54.741494 : -116.593511,BA3458
+54,Ava Harrison,1094 Adams Street,San Antonio,,,CX6791
+55,Owen Fisher,1486 Second Street,Chicago,54304,79.330781 : -13.162134,TG3467
+56,Samantha Howard,1506 Jefferson Street,Austin,20118,-30.25137 : 124.764848,SK5810
+57,Nathan Dixon,1795 Seventh Street,Columbus,20882,-15.794158 : -83.214052,SQ8734
+58,Bella Grant,447 Ninth Street,Dallas,40138,30.371676 : -141.802948,AC7816
+59,Ethan Fletcher,789 Main Street,Dallas,87924,29.411519 : 23.598322,LA2312
+60,Lillian Simmons,1577 Seventh Street,Phoenix,47571,-78.054184 : -159.412033,AI2488
+61,Mason Pearson,14 Main Street,Phoenix,82481,-38.914334 : 171.16941,NZ6571
+62,Leah Henderson,554 Seventh Street,Austin,42884,24.228272 : 23.462478,AV7071
+63,Logan Lawson,1110 Fifth Street,Chicago,10672,40.581664 : 146.441717,WN9844
+64,Avery Barnes,466 Sixth Street,Philadelphia,61359,-5.728671 : 38.921097,IB7731
+65,Caleb Perkins,1078 Sixth Street,Los Angeles,12319,-25.994847 : -147.135588,LA5763
+66,Aria Ferguson,1553 Sixth Street,San Diego,59501,-66.092723 : 169.9952,SQ9273
+67,Gabriel Hayes,240 Jefferson Street,San Jose,63269,-25.766511 : -76.004117,AI3155
+68,Layla Sullivan,639 Fourth Street,Denver,56891,89.415268 : -29.532108,KL3196
+69,Christopher West,1656 Eighth Street,Denver,63011,-82.516652 : -147.519835,SA8535
+70,Zoe Nicholson,1705 Pine Street,Jacksonville,39449,35.632082 : 127.968158,AM2109
+71,,236 Lincoln Street,Jacksonville,56830,-87.184494 : -137.530694,KL6129
+72,Victoria McDonald,244 Second Street,Austin,39608,-72.323497 : 138.264727,WN3613
+73,Max Russell,1813 Ninth Street,Chicago,46278,27.088722 : 104.023237,DL8669
+74,Penelope Harper,571 Washington Street,Charlotte,26857,54.991384 : 14.355841,SK6738
+75,Ryan Graham,1858 Madison Street,San Antonio,,11.44191 : -42.217944,QR5057
+76,Madeline Simpson,1466 Oak Street,Los Angeles,29730,-61.252684 : -159.370289,NZ4614
+77,Jonathan Pierce,1110 Seventh Street,San Diego,34379,-85.385955 : -49.11738,LH8665
+78,Eleanor Tyler,439 Pine Street,San Antonio,64622,51.5965 : 47.479982,SA6768
+79,Isaac Lawrence,1581 Oak Street,Austin,62609,63.188944 : -119.083714,QR6450
+80,Hazel Gardner,756 Washington Street,New York,35181,-9.898936 : 81.738951,AA5371
+81,Austin Hudson,,Los Angeles,64305,-28.392471 : -44.144328,QR7020
+82,Lillian Bishop,1959 Lincoln Street,Jacksonville,79154,39.203338 : -68.447736,BA3224
+83,Dylan Wells,816 Sixth Street,Philadelphia,54522,-82.623651 : 33.259567,NH9219
+84,Aaliyah Hanson,790 Eighth Street,Philadelphia,51438,15.832722 : -148.237795,IB2561
+85,Cameron Burke,1192 Adams Street,Denver,32940,-64.736971 : -145.00299,AV7161
+86,Nora Mills,940 Oak Street,San Jose,51983,-21.747982 : -17.382449,AF9644
+87,Hunter Gordon,614 Third Street,Charlotte,77521,72.687425 : 145.404561,QF5718
+88,Aubrey Wagner,1147 Adams Street,Phoenix,72711,-55.796433 : -163.621876,QR4142
+89,Brayden Fleming,328 Second Street,Jacksonville,30822,-31.165455 : 80.818634,AI1343
+90,Scarlett Bowman,1108 Madison Street,New York,63825,49.409345 : -134.912011,NH4329
+91,Levi Hicks,1836 Pine Street,Phoenix,74747,43.752994 : -60.845798,LA5763
+92,Autumn Gomez,1585 Washington Street,Dallas,53203,27.443768 : -176.861979,TG4235
+93,Julian Newton,565 First Street,Fort Worth,,37.071505 : 6.844804,QF9304
+94,Ruby Andrews,800 Adams Street,Dallas,85259,17.888532 : 147.485554,QR8304
+95,,1778 Tenth Street,Charlotte,29192,87.914882 : 55.932358,SK6775
+96,Aurora Lawson,1140 Adams Street,Dallas,29004,83.417744 : -7.933044,DL5812
+97,,1948 Jefferson Street,Charlotte,12263,52.294653 : -70.69936,AA4284
+98,Clara Berry,1577 Jefferson Street,Seattle,41818,88.607515 : 92.692781,AF9229
+99,Gavin Stanley,,Houston,85234,70.915423 : -30.195987,LA7613
+100,Lila Hudson,262 Ninth Street,Chicago,17472,-68.233207 : -67.04255,AC2363
+101,Alice Smith,1631 Fourth Street,Houston,81896,-16.873954 : 118.766256,AM6507
+102,John Doe,37 Second Street,Fort Worth,33991,-66.043758 : -59.356632,TG6736
+103,Emily Brown,1962 Fourth Street,Houston,67104,-64.336051 : 135.876737,IB8329
+104,Michael Johnson,1252 Washington Street,Phoenix,,-79.040825 : 100.576804,AV2380
+105,,888 Lincoln Street,New York,85313,64.320835 : -25.984113,AF8227
+106,David Martinez,510 Pine Street,Seattle,75448,-70.300461 : -43.907001,WN5043
+107,Olivia Anderson,466 Cedar Street,Houston,37773,-41.687661 : 162.81871,AZ5428
+108,James Garcia,41 Maple Street,Washington,54618,18.738768 : 174.881955,AI5617
+109,Sophia Jones,,,24752,3.39453 : -101.97078,LA3204
+110,,339 Pine Street,San Francisco,14050,57.726676 : 172.872583,AF3413
+111,Isabella Jackson,200 Pine Street,Charlotte,80531,-67.335287 : -128.480048,DL4495
+112,Alexander Hernandez,329 Second Street,Dallas,49314,14.101714 : -148.130379,DL4369
+113,Mia Miller,1706 First Street,Denver,43350,-52.149832 : -103.851339,TG1736
+114,,,Dallas,38792,17.032342 : -23.993339,BA2542
+115,Charlotte Davis,1787 Sixth Street,Fort Worth,41530,40.199624 : -100.939984,NH7687
+116,William Lopez,566 Madison Street,Washington,28272,-86.122625 : 174.058446,NZ1572
+117,Amelia Perez,25 Elm Street,New York,88314,-55.895738 : -117.829232,KE1138
+118,Benjamin Wilson,1469 Elm Street,Philadelphia,47295,25.447567 : -84.61101,NH5199
+119,,1628 Adams Street,Columbus,,-7.51515 : 115.577498,AZ8044
+120,,310 Madison Street,Phoenix,,-62.62634 : -47.556406,AI1179
