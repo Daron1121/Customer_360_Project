@@ -14,3 +14,13 @@ The purpose of project is to connect data from 4 different sources, into a singl
 ## Data ingestion / Bronze Layer
 Data is ingested into fabric using data pipeline with notebook & copy data activities. 
 To avoid code duplication, API ingestion is implemented as a parameterized notebook reused across multiple REST sources, orchestrated by a single Fabric pipeline.
+
+## Data transformation / Silver Layer
+Dats is cleaned from files using 1 single notebook for every file.
+Data is cleaned from technical side.
+
+## Data enrichements / Gold Layer
+The Gold layer represents the business-ready, analytics-optimized data model built on top of curated Silver datasets.
+Its primary goal is to provide a single, unified view of the customer (Customer 360) by resolving identities across multiple source systems and enriching customer profiles with aggregated behavioral insights.
+Customer profile attributes are sourced from the system of record best suited for each domain, with CRM providing contact identity and ERP providing formal address information.
+
